@@ -65,7 +65,7 @@ python test_api.py
 │   └── test.csv.dvc
 ├── pipeline_mlops_1.py
 ├── app.py
-├── run_pipeline.sh
+├── pipeline.sh
 ├── requirements.txt
 ├── .gitignore
 └── README.md
