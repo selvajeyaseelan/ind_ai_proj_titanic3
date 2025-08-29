@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1756458238423,"sparkVersion":"4.0.0","uid":"Imputer_960516dcfa2e","paramMap":{"inputCols":["Age","Fare"],"strategy":"mean","outputCols":["Age_imputed","Fare_imputed"]},"defaultParamMap":{"relativeError":0.001,"strategy":"mean","missingValue":"NaN","outputCol":"Imputer_960516dcfa2e__output"}}

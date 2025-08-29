@@ -1,0 +1,14 @@
+artifact_uri: file:///home/selva/workspace/titanic3/mlruns/0/975332207f1542c09dfe11a60f936990/artifacts
+end_time: 1756281577143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 975332207f1542c09dfe11a60f936990
+run_name: Training_random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756281552496
+status: 3
+tags: []
+user_id: selva

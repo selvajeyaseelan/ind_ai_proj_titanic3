@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1756297147209,"sparkVersion":"4.0.0","uid":"OneHotEncoder_9401d13f71b1","paramMap":{"inputCol":"SexIndex","outputCol":"SexVec"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_9401d13f71b1__output"}}

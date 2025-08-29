@@ -1,0 +1,14 @@
+artifact_uri: file:///home/selva/workspace/titanic3/mlruns/0/7b1e453bd6584269b70bb5318ed2cb16/artifacts
+end_time: 1756273464220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b1e453bd6584269b70bb5318ed2cb16
+run_name: Training_decision_tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756273436998
+status: 3
+tags: []
+user_id: selva
